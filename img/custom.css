@@ -1,0 +1,37 @@
+nav{
+    background-color: rgb(93, 105, 114);
+
+}
+li a{
+    color: white;
+    padding: 10px;
+    margin: 10px;
+}
+.my-banner{
+    background: url("img/trendzup/signmantra\ website\ 1p.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: rgb(204, 248, 44);
+    height: 600PX;
+}
+.my-banner p{
+    color :white;
+}
+/* footer */
+footer{
+    text-align: center;
+    background-color: rgb(184, 185, 185);
+}
+.my-link{
+    text-decoration: none;
+}
+h6{
+    color: rgb(77, 77, 175);
+}.my-style{
+    color: rgb(189, 241, 129);
+    list-style: none;
+}
+h5{
+    color: blue;
+}
